@@ -9,10 +9,10 @@
 
 # Communicate using Markdown
 
-_Markdown is an easy-to-read, easy-to-write language for formatting plain text._ 
-_You can use Markdown syntax, along with some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull requests and issues._ 
-_In this guide, you'll learn some advanced formatting features by creating or editing a README for your GitHub profile._
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+1. _Markdown is an easy-to-read, easy-to-write language for formatting plain text._ 
+1. _You can use Markdown syntax, along with some additional HTML tags, to format your writing on GitHub, in places like repository READMEs and comments on pull requests and issues._ 
+1. _In this guide, you'll learn some advanced formatting features by creating or editing a README for your GitHub profile._
+1. _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </header>
 
